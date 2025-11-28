@@ -1,7 +1,11 @@
 人工智能
 AI
 ChatGPT
-+技术
+Github
+Google
+Gemini
+Deepseek
+Qwen
 !广告
 !培训
 
